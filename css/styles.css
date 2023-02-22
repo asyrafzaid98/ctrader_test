@@ -43,7 +43,7 @@ html {
 
 body, p {
 	color: #f1f1f8; 
-	font: 400 1rem/1.625rem "Open Sans", sans-serif;
+	font: 400 "Montserrat", sans-serif;
 }
 
 h1 {
@@ -727,7 +727,7 @@ hr.hr-heading {
 	padding-top: 40px;
 }
 
-.tabs-1 #tab-3 h3 {
+/* .tabs-1 #tab-3 h3 {
 	margin-top: 1rem;
 	margin-bottom: 0.75rem;
 }
@@ -743,7 +743,7 @@ hr.hr-heading {
 
 .tabs-1 #tab-2 h6{
 	margin-top: 12px;
-}
+} */
 
 
 /*****************/
