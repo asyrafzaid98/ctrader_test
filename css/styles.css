@@ -1204,6 +1204,11 @@ hr.hr-heading {
 		margin-left: auto;
 	}
 
+	.header .img-fluid{
+		background: none;
+		padding-top: 100px;
+	}
+
 	/* Stops body and navbar shift on modal open */
 	body.modal-open {
 		overflow-y: scroll !important;
